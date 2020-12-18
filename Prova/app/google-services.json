@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691815332770",
+    "project_id": "provaexame-410cb",
+    "storage_bucket": "provaexame-410cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691815332770:android:7067a82e4329dcbcc050fb",
+        "android_client_info": {
+          "package_name": "androidpro.com.provaexame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691815332770-vr11pms89ffbv5knsjmsd0mig7j6rrtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidpro.com.provaexame",
+            "certificate_hash": "d18e0a19b2b3f1e479884cffdffc2bfad83a4d5a"
+          }
+        },
+        {
+          "client_id": "691815332770-7nakitc8605ghk8nl6duflu2375ve7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMEq0pFNxqnXIXq4rbdY0AsoNt-MrKW_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691815332770-7nakitc8605ghk8nl6duflu2375ve7li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
